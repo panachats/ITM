@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "name": "PSU",
+            "map": "https://www.google.com/maps/place/PSU+Sports+Complex/@7.0092791,100.4970575,17z/data=!4m10!1m2!2m1!1z4Lio4Li54LiZ4Lii4LmM4LiB4Li14Lis4LiyIOC4oeC4rQ!3m6!1s0x304d29a4640c17d3:0xc36bb6c0b661e0a9!8m2!3d7.0099959!4d100.500479!15sCiLguKjguLnguJnguKLguYzguIHguLXguKzguLIg4Lih4LitkgEOc3BvcnRzX2NvbXBsZXjgAQA!16s%2Fg%2F11c3v_qh7k?entry=ttu",
+            "id":1
+        },
+        {
+            "name": "WU",
+            "map": "https://www.google.com/maps/place/PSU+Sports+Complex/@7.0092791,100.4970575,17z/data=!4m10!1m2!2m1!1z4Lio4Li54LiZ4Lii4LmM4LiB4Li14Lis4LiyIOC4oeC4rQ!3m6!1s0x304d29a4640c17d3:0xc36bb6c0b661e0a9!8m2!3d7.0099959!4d100.500479!15sCiLguKjguLnguJnguKLguYzguIHguLXguKzguLIg4Lih4LitkgEOc3BvcnRzX2NvbXBsZXjgAQA!16s%2Fg%2F11c3v_qh7k?entry=ttu",
+            "id":2
+        }
+    ]
+}
